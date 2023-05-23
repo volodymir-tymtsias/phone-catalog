@@ -24,7 +24,7 @@ export const Footer = () => {
           <ul className="navbar__list">
             <li className="navbar__item">
               <a
-                href="https://github.com/volodymir-tymtsias/react_phone-catalog"
+                href="https://github.com/volodymir-tymtsias/phone-catalog"
                 className="navbar__link"
               >
                 github
