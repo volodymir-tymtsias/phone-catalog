@@ -1,4 +1,6 @@
 # Phone catalog
+#### [DEMO LINK](https://volodymir-tymtsias.github.io/phone-catalog/)
+---
 Phone catalog is a single page application that is a catalog of gadgets and their accessories. It contains a header with a menu and a search field that appears when you open certain menu items, where you need to search for products on the page. Depending on what is entered in the search field, the page will display filtered products. The search field can be cleared with one click by pressing X. Search processing is implemented with a small delay, to save resources, to process the final entered text and not search for each character.
 
 The content of the main part of the application is loaded depending on the selected menu item. The home page has a slider banner that can be scrolled endlessly, with an auto-replacement of the image set every 5 seconds. There are also several product sliders selected according to the slider title.
@@ -28,6 +30,3 @@ The following technologies and libraries were used during creation:
 -	React
 -	React Router
 -	React Resize Detector
-
----
-#### [DEMO LINK](https://volodymir-tymtsias.github.io/phone-catalog/)
